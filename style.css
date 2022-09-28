@@ -1,0 +1,141 @@
+.jumbotron {
+    background-image: url(img/hero-header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    color: aliceblue;
+}
+
+.jumbotron img {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border: solid 4px whitesmoke;
+    border-radius: 100%;
+}
+
+.jumbotron h3 {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.jumbotron p {
+    text-align: center;
+}
+
+.about {
+    text-align: center;
+}
+
+.about hr {
+    display: block;
+    margin-top: -5px;
+    width: 200px;
+    border-width: 3px;
+}
+
+.container .aboutme p {
+    text-align: center;
+}
+
+.skill {
+    margin-top: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.skill hr {
+    display: block;
+    margin-top: -10px;
+    width: 150px;
+    border-width: 3px;
+}
+
+.html span {
+
+    display: inline-block;
+    width: 100%;
+    border: 1px solid black;
+    font-size: 9pt;
+}
+
+.html span i {
+    display: inline-block;
+    background-color: yellowgreen;
+    width: 90%;
+    height: 10px;
+}
+
+.css span i {
+    display: inline-block;
+    background-color: yellowgreen;
+    width: 80%;
+    height: 10px;
+}
+
+.js span i {
+    display: inline-block;
+    background-color: yellowgreen;
+    width: 50%;
+    height: 10px;
+}
+
+.php span i {
+    display: inline-block;
+    background-color: yellowgreen;
+    width: 80%;
+    height: 10px;
+}
+
+.sql span i {
+    display: inline-block;
+    background-color: yellowgreen;
+    width: 80%;
+    height: 10px;
+}
+
+
+.pendidikan hr {
+    display: block;
+    margin-top: -5px;
+    width: 170px;
+    border-width: 3px;
+}
+
+
+.kerja hr {
+    display: block;
+    margin-top: -7px;
+    width: 300px;
+    border-width: 3px;
+}
+
+.gall hr {
+    display: block;
+    margin-top: -6px;
+    width: 300px;
+    border-width: 3px;
+}
+
+.contac hr {
+    display: block;
+    margin-top: -7px;
+    width: 210px;
+    border-width: 3px;
+}
+
+.cp i {
+    font-size: 20pt;
+}
+
+div.wa img {
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 100;
+}
